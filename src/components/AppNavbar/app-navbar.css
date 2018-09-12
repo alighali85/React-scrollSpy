@@ -1,0 +1,21 @@
+.nav-bar__list-item {
+  list-style: none;
+}
+
+.nav-bar__tab {
+  color: white;
+  font-style: normal;
+  background: #6D214F;
+  padding: 14px 48px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.nav-bar__tab.active {
+  color: #6D214F;
+  font-style: normal;
+  background: white;
+  padding: 14px 48px;
+  border-radius: 5px;
+  text-decoration: none;
+}

@@ -1,0 +1,19 @@
+.article {
+  display: flex;
+  padding: 48px;
+  min-height: 75vh;
+  border: 1px solid lightgray;
+  margin: 28px;
+  border-radius: 5px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.article__headline {
+ line-height: 2
+}
+
+.article__text {
+ line-height: 2
+}
